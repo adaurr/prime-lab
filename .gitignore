@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.Rproj.user/
+.Rhistory
+.RData
+.env
+.DS_Store
+data/*
+!data/.gitkeep
