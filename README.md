@@ -1,6 +1,6 @@
-# Project name
+# prime-lab
 
-> One sentence: the question this project answers.
+> How do prime numbers really distribute, and how well do classical approximations hold? Number theory meets statistics.
 
 ## Question
 
